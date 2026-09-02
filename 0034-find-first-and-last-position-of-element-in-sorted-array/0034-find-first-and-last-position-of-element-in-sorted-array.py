@@ -23,4 +23,4 @@ class Solution:
                 else:
                     l = mid+1
             return ans
-        return[fir(nums,target,0,-1,n-1),las(nums,target,0,-1,n-1)]
+        return[fir(nums,target,-1,0,n-1),las(nums,target,-1,0,n-1)]
