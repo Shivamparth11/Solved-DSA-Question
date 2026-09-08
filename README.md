@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shivamparth11/Solved-DSA-Question/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Shivamparth11/Solved-DSA-Question/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Shivamparth11/Solved-DSA-Question/tree/master/0075-sort-colors) |
+| [0141-linked-list-cycle](https://github.com/Shivamparth11/Solved-DSA-Question/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/Shivamparth11/Solved-DSA-Question/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Shivamparth11/Solved-DSA-Question/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/Shivamparth11/Solved-DSA-Question/tree/master/0876-middle-of-the-linked-list) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Shivamparth11/Solved-DSA-Question/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Shivamparth11/Solved-DSA-Question/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Shivamparth11/Solved-DSA-Question/tree/master/0128-longest-consecutive-sequence) |
+| [0141-linked-list-cycle](https://github.com/Shivamparth11/Solved-DSA-Question/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Shivamparth11/Solved-DSA-Question/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Shivamparth11/Solved-DSA-Question/tree/master/0229-majority-element-ii) |
 ## Sorting
@@ -133,10 +135,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/Shivamparth11/Solved-DSA-Question/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Shivamparth11/Solved-DSA-Question/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Shivamparth11/Solved-DSA-Question/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Shivamparth11/Solved-DSA-Question/tree/master/0206-reverse-linked-list) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Shivamparth11/Solved-DSA-Question/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
